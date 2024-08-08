@@ -1,0 +1,9 @@
+.ecart--top-header {
+    height: 5vh;
+    background-color: #282828;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    padding-top: 10px;
+}
